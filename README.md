@@ -28,3 +28,5 @@ Susheendhar Vijay ([SusheendharVijay](https://github.com/SusheendharVijay) | sus
 
 Akash Mandal([akash123mandal](https://github.com/akash123mandal) | akash123mandal@gmail.com
 
+Rishabh Kumar ([KumarRishabh](https://github.com/KumarRishabh)) | rishabhkumar@iitkgp.ac.in
+
