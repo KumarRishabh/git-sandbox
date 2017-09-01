@@ -26,3 +26,5 @@ Kaustubh Maloo ([kaus19](https://github.com/kaus19)) |  kaustubh.maloo@iitkgp.ac
 
 Susheendhar Vijay ([SusheendharVijay](https://github.com/SusheendharVijay) | susheendharvj@gmail.com
 
+Akash Mandal([akash123mandal](https://github.com/akash123mandal) | akash123mandal@gmail.com
+
